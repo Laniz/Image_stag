@@ -2,7 +2,7 @@
 
 Name: Shepherd Ncube
 
-Sprint #: 3
+Sprint #: 4 - I accidentally submited sprint 5 in sprint 4.
 
 ## Instructions
 
@@ -52,7 +52,7 @@ _Note: Add more rows as needed._
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |        11                |
-|TP - Team Project              |        6                 |
+|IM - Individual Module         |        10                |
+|TP - Team Project              |        4                 |
 |MTG - Class Meetings           |        4                 |
-|**TOTAL**                      |        21                |
+|**TOTAL**                      |        18                |
